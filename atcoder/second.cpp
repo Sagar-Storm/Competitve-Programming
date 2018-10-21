@@ -17,6 +17,6 @@ int main() {
                 cin >> a >> b ; 
                 sum += ( b - a + 1 ) ; 
         }
-        cout << sum << endl ; 
+        cout << sum ; 
 
 }
